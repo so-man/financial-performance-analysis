@@ -51,7 +51,7 @@ How to Run
 
 Clone the repo
 
-bashgit clone https://github.com/YOUR_USERNAME/financial-performance-analysis
+bashgit clone https://github.com/so-man/financial-performance-analysis
 cd financial-performance-analysis
 
 Install dependencies
